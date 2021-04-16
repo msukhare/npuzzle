@@ -1,0 +1,5 @@
+# This puzzle is solvable
+sqsd 3
+6 4 5
+8 3 7
+1 2 0

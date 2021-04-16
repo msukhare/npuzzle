@@ -1,0 +1,7 @@
+# This puzzle is solvable
+5
+17 13 24 18  7
+ 1 12 22 16 19
+ 0 11 21 14 15
+ 3 23 salut je suis une erreur 4  6  5
+ 8  9 10  2 20

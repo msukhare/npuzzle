@@ -1,0 +1,6 @@
+# This puzzle is solvable
+3
+b2 6 1
+4 0 7
+3 8 5b
+

@@ -1,0 +1,6 @@
+# This puzzle is solvable
+fd f4fvg
+15  5  1  6
+ 8  9  2  3
+ 4 10  7 12
+11 14  0 13

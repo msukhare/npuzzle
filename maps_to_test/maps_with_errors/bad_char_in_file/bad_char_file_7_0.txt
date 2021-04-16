@@ -1,0 +1,10 @@
+# This puzzle is solvable
+AWS_FOLDER=my-audio # no leading or trailing "/"
+7
+ 9 19 34 44  2 42  8
+39 35 32 41 10 14  7
+ 6 38 11 21 31 36 22
+48 16 27  0 18 28 20
+24 37 47 17  3  5 29
+23 40 12 25 30  1 45
+ 4 15 33 13 43 26 46
