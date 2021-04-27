@@ -5,10 +5,12 @@ from utils import node
 
 class aStarSolver:
 
-    def __init__(self, moves, to_solve, heuristic, weight=1):
+    def __init__(self, moves, to_solve, heuristic, greedy, uniform, weight):
         self.moves = moves
         self.to_solve = to_solve
         self.heuristic = heuristic
+        self.g_increment = int(greedy is False)
+        self.uniform = uniform
         self.weight = weight
         self.path_of_solution = None
         self.open_set = {}
@@ -27,14 +29,14 @@ class aStarSolver:
         return False
 
     def run(self):
-        start = node(1,\
-                0,\
-                np.where(self.to_solve.map_to_solve == 0),\
+        start = node(np.where(self.to_solve.map_to_solve == 0),\
                 self.to_solve.map_to_solve,\
                 'START',\
                 None)
-        start.compute_f_score(self.heuristic(start.map,\
-                self.to_solve.final_map),\
+        start.g += self.g_increment
+        start.compute_f_score(self.heuristic,\
+                self.to_solve.final_map,\
+                self.uniform,\
                 self.weight)
         self.open_set[start] = start.f
         heapq.heappush(self.priority_queu, start)
@@ -42,14 +44,16 @@ class aStarSolver:
             to_analyse = heapq.heappop(self.priority_queu)
             self.open_set.pop(to_analyse)
             self.closed_set.add(to_analyse)
-            if to_analyse.h == 0:
+            if to_analyse.solved(self.to_solve.final_map) is True:
                 self.path_of_solution = to_analyse
-                return
+                break
             for new in to_analyse.expand(self.moves):
                 if new not in self.closed_set:
-                    new.compute_f_score(self.heuristic(new.map,\
-                            self.to_solve.final_map),\
-                            self.weight)
+                    new.g = to_analyse.g + self.g_increment
+                    new.compute_f_score(self.heuristic,\
+                        self.to_solve.final_map,\
+                        self.uniform,\
+                        self.weight)
                     if new not in self.open_set or\
                         self.already_in_with_higher_cost(new) is True:
                         heapq.heappush(self.priority_queu, new)
@@ -60,15 +64,20 @@ class aStarSolver:
                         self.time_complexity += 1
 
     def show_all_path(self, current_node):
-        if current_node is not None:
-            self.show_all_path(current_node.before)
-            print('---%s---' %current_node.move)
-            print(current_node.map, '\n')
+        all_path = []
+        len_path = 0
+        while (current_node is not None):
+            all_path.insert(0, current_node)
+            current_node = current_node.before
+            len_path += 1
+        for ele in all_path:
+            print('---%s---' %ele.move)
+            print(ele.map, '\n')
+        print("Length of path: %d" %len_path)
 
     def recap(self):
         if self.path_of_solution is not None:
-            #self.show_all_path(self.path_of_solution)
-            print("Length of path: %d" %self.path_of_solution.g)
+            self.show_all_path(self.path_of_solution)
         else:
             print("Any path was found")
         print("Time complexity: %d" %self.time_complexity)

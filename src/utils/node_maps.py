@@ -2,10 +2,10 @@ import copy
 import numpy as np
 
 class node:
-    def __init__(self, g, h, zero_pos, maps, move, before):
-        self.g = g
-        self.h = h
-        self.f = g + h
+    def __init__(self, zero_pos, maps, move, before):
+        self.g = 0
+        self.h = 0
+        self.f = 0
         self.y_zero = int(zero_pos[0])
         self.x_zero = int(zero_pos[1])
         self.move = move
@@ -23,16 +23,18 @@ class node:
                 new_map = copy.deepcopy(self.map)
                 new_map[self.y_zero][self.x_zero] = new_map[new_zero_y][new_zero_x]
                 new_map[new_zero_y][new_zero_x] = 0
-                yield node(self.g + 1,\
-                    0,
-                    (new_zero_y, new_zero_x),\
+                yield node((new_zero_y, new_zero_x),\
                     new_map,\
                     m[0],\
                     self)
 
-    def compute_f_score(self, h, weight):
-        self.h = h
+    def compute_f_score(self, heuristic, final_map, uniform, weight):
+        if uniform is False:
+            self.h = heuristic(self.map, final_map)
         self.f = self.g + self.h * weight
+
+    def solved(self, final_map):
+        return np.array_equal(self.map, final_map)
 
     def __eq__(self, to_cmp):
         return np.array_equal(self.map, to_cmp.map)
