@@ -1,0 +1,804 @@
+maps_to_test/maps3by3/solvable_3_0.txt
+Length of path: 23
+Time complexity: 663
+Space complexity: 394
+maps_to_test/maps3by3/solvable_3_100.txt
+Length of path: 19
+Time complexity: 112
+Space complexity: 64
+maps_to_test/maps3by3/solvable_3_101.txt
+Length of path: 23
+Time complexity: 569
+Space complexity: 346
+maps_to_test/maps3by3/solvable_3_102.txt
+Length of path: 15
+Time complexity: 82
+Space complexity: 44
+maps_to_test/maps3by3/solvable_3_103.txt
+Length of path: 23
+Time complexity: 447
+Space complexity: 266
+maps_to_test/maps3by3/solvable_3_104.txt
+Length of path: 27
+Time complexity: 2303
+Space complexity: 1427
+maps_to_test/maps3by3/solvable_3_105.txt
+Length of path: 25
+Time complexity: 1282
+Space complexity: 771
+maps_to_test/maps3by3/solvable_3_106.txt
+Length of path: 27
+Time complexity: 3139
+Space complexity: 1951
+maps_to_test/maps3by3/solvable_3_107.txt
+Length of path: 21
+Time complexity: 477
+Space complexity: 287
+maps_to_test/maps3by3/solvable_3_108.txt
+Length of path: 21
+Time complexity: 489
+Space complexity: 297
+maps_to_test/maps3by3/solvable_3_109.txt
+Length of path: 25
+Time complexity: 1141
+Space complexity: 706
+maps_to_test/maps3by3/solvable_3_10.txt
+Length of path: 25
+Time complexity: 432
+Space complexity: 261
+maps_to_test/maps3by3/solvable_3_110.txt
+Length of path: 17
+Time complexity: 66
+Space complexity: 35
+maps_to_test/maps3by3/solvable_3_111.txt
+Length of path: 17
+Time complexity: 131
+Space complexity: 73
+maps_to_test/maps3by3/solvable_3_112.txt
+Length of path: 23
+Time complexity: 242
+Space complexity: 140
+maps_to_test/maps3by3/solvable_3_113.txt
+Length of path: 23
+Time complexity: 918
+Space complexity: 556
+maps_to_test/maps3by3/solvable_3_114.txt
+Length of path: 21
+Time complexity: 198
+Space complexity: 114
+maps_to_test/maps3by3/solvable_3_115.txt
+Length of path: 19
+Time complexity: 269
+Space complexity: 163
+maps_to_test/maps3by3/solvable_3_116.txt
+Length of path: 23
+Time complexity: 944
+Space complexity: 568
+maps_to_test/maps3by3/solvable_3_117.txt
+Length of path: 27
+Time complexity: 2130
+Space complexity: 1314
+maps_to_test/maps3by3/solvable_3_118.txt
+Length of path: 25
+Time complexity: 1991
+Space complexity: 1228
+maps_to_test/maps3by3/solvable_3_119.txt
+Length of path: 27
+Time complexity: 3032
+Space complexity: 1851
+maps_to_test/maps3by3/solvable_3_11.txt
+Length of path: 23
+Time complexity: 105
+Space complexity: 60
+maps_to_test/maps3by3/solvable_3_120.txt
+Length of path: 27
+Time complexity: 834
+Space complexity: 503
+maps_to_test/maps3by3/solvable_3_121.txt
+Length of path: 19
+Time complexity: 183
+Space complexity: 110
+maps_to_test/maps3by3/solvable_3_122.txt
+Length of path: 25
+Time complexity: 1368
+Space complexity: 829
+maps_to_test/maps3by3/solvable_3_123.txt
+Length of path: 23
+Time complexity: 1287
+Space complexity: 786
+maps_to_test/maps3by3/solvable_3_124.txt
+Length of path: 21
+Time complexity: 278
+Space complexity: 166
+maps_to_test/maps3by3/solvable_3_125.txt
+Length of path: 21
+Time complexity: 147
+Space complexity: 84
+maps_to_test/maps3by3/solvable_3_126.txt
+Length of path: 25
+Time complexity: 642
+Space complexity: 384
+maps_to_test/maps3by3/solvable_3_127.txt
+Length of path: 19
+Time complexity: 165
+Space complexity: 98
+maps_to_test/maps3by3/solvable_3_128.txt
+Length of path: 19
+Time complexity: 264
+Space complexity: 153
+maps_to_test/maps3by3/solvable_3_129.txt
+Length of path: 23
+Time complexity: 1002
+Space complexity: 606
+maps_to_test/maps3by3/solvable_3_12.txt
+Length of path: 15
+Time complexity: 96
+Space complexity: 56
+maps_to_test/maps3by3/solvable_3_130.txt
+Length of path: 23
+Time complexity: 810
+Space complexity: 493
+maps_to_test/maps3by3/solvable_3_131.txt
+Length of path: 19
+Time complexity: 292
+Space complexity: 175
+maps_to_test/maps3by3/solvable_3_132.txt
+Length of path: 21
+Time complexity: 213
+Space complexity: 124
+maps_to_test/maps3by3/solvable_3_133.txt
+Length of path: 27
+Time complexity: 1789
+Space complexity: 1089
+maps_to_test/maps3by3/solvable_3_134.txt
+Length of path: 19
+Time complexity: 416
+Space complexity: 247
+maps_to_test/maps3by3/solvable_3_135.txt
+Length of path: 25
+Time complexity: 348
+Space complexity: 200
+maps_to_test/maps3by3/solvable_3_136.txt
+Length of path: 27
+Time complexity: 1243
+Space complexity: 761
+maps_to_test/maps3by3/solvable_3_137.txt
+Length of path: 23
+Time complexity: 1139
+Space complexity: 694
+maps_to_test/maps3by3/solvable_3_138.txt
+Length of path: 21
+Time complexity: 105
+Space complexity: 57
+maps_to_test/maps3by3/solvable_3_139.txt
+Length of path: 29
+Time complexity: 691
+Space complexity: 429
+maps_to_test/maps3by3/solvable_3_13.txt
+Length of path: 21
+Time complexity: 1026
+Space complexity: 629
+maps_to_test/maps3by3/solvable_3_140.txt
+Length of path: 23
+Time complexity: 1262
+Space complexity: 766
+maps_to_test/maps3by3/solvable_3_141.txt
+Length of path: 23
+Time complexity: 230
+Space complexity: 137
+maps_to_test/maps3by3/solvable_3_142.txt
+Length of path: 21
+Time complexity: 219
+Space complexity: 139
+maps_to_test/maps3by3/solvable_3_143.txt
+Length of path: 23
+Time complexity: 1270
+Space complexity: 773
+maps_to_test/maps3by3/solvable_3_144.txt
+Length of path: 23
+Time complexity: 654
+Space complexity: 393
+maps_to_test/maps3by3/solvable_3_145.txt
+Length of path: 21
+Time complexity: 659
+Space complexity: 393
+maps_to_test/maps3by3/solvable_3_146.txt
+Length of path: 21
+Time complexity: 344
+Space complexity: 206
+maps_to_test/maps3by3/solvable_3_147.txt
+Length of path: 27
+Time complexity: 1500
+Space complexity: 917
+maps_to_test/maps3by3/solvable_3_148.txt
+Length of path: 21
+Time complexity: 361
+Space complexity: 221
+maps_to_test/maps3by3/solvable_3_149.txt
+Length of path: 23
+Time complexity: 1126
+Space complexity: 688
+maps_to_test/maps3by3/solvable_3_14.txt
+Length of path: 27
+Time complexity: 1437
+Space complexity: 866
+maps_to_test/maps3by3/solvable_3_150.txt
+Length of path: 25
+Time complexity: 1121
+Space complexity: 690
+maps_to_test/maps3by3/solvable_3_151.txt
+Length of path: 19
+Time complexity: 141
+Space complexity: 80
+maps_to_test/maps3by3/solvable_3_152.txt
+Length of path: 25
+Time complexity: 2591
+Space complexity: 1596
+maps_to_test/maps3by3/solvable_3_153.txt
+Length of path: 21
+Time complexity: 228
+Space complexity: 133
+maps_to_test/maps3by3/solvable_3_154.txt
+Length of path: 19
+Time complexity: 80
+Space complexity: 44
+maps_to_test/maps3by3/solvable_3_155.txt
+Length of path: 23
+Time complexity: 708
+Space complexity: 420
+maps_to_test/maps3by3/solvable_3_156.txt
+Length of path: 21
+Time complexity: 353
+Space complexity: 209
+maps_to_test/maps3by3/solvable_3_157.txt
+Length of path: 29
+Time complexity: 2226
+Space complexity: 1373
+maps_to_test/maps3by3/solvable_3_158.txt
+Length of path: 23
+Time complexity: 288
+Space complexity: 174
+maps_to_test/maps3by3/solvable_3_159.txt
+Length of path: 23
+Time complexity: 1332
+Space complexity: 820
+maps_to_test/maps3by3/solvable_3_15.txt
+Length of path: 21
+Time complexity: 736
+Space complexity: 436
+maps_to_test/maps3by3/solvable_3_160.txt
+Length of path: 13
+Time complexity: 57
+Space complexity: 30
+maps_to_test/maps3by3/solvable_3_161.txt
+Length of path: 21
+Time complexity: 772
+Space complexity: 463
+maps_to_test/maps3by3/solvable_3_162.txt
+Length of path: 23
+Time complexity: 1230
+Space complexity: 749
+maps_to_test/maps3by3/solvable_3_163.txt
+Length of path: 19
+Time complexity: 197
+Space complexity: 118
+maps_to_test/maps3by3/solvable_3_164.txt
+Length of path: 23
+Time complexity: 617
+Space complexity: 366
+maps_to_test/maps3by3/solvable_3_165.txt
+Length of path: 19
+Time complexity: 264
+Space complexity: 159
+maps_to_test/maps3by3/solvable_3_166.txt
+Length of path: 21
+Time complexity: 347
+Space complexity: 209
+maps_to_test/maps3by3/solvable_3_167.txt
+Length of path: 21
+Time complexity: 233
+Space complexity: 134
+maps_to_test/maps3by3/solvable_3_168.txt
+Length of path: 27
+Time complexity: 1455
+Space complexity: 880
+maps_to_test/maps3by3/solvable_3_169.txt
+Length of path: 27
+Time complexity: 1685
+Space complexity: 1027
+maps_to_test/maps3by3/solvable_3_16.txt
+Length of path: 19
+Time complexity: 130
+Space complexity: 76
+maps_to_test/maps3by3/solvable_3_170.txt
+Length of path: 25
+Time complexity: 451
+Space complexity: 269
+maps_to_test/maps3by3/solvable_3_171.txt
+Length of path: 25
+Time complexity: 1486
+Space complexity: 918
+maps_to_test/maps3by3/solvable_3_172.txt
+Length of path: 23
+Time complexity: 361
+Space complexity: 214
+maps_to_test/maps3by3/solvable_3_173.txt
+Length of path: 29
+Time complexity: 3519
+Space complexity: 2169
+maps_to_test/maps3by3/solvable_3_174.txt
+Length of path: 17
+Time complexity: 58
+Space complexity: 32
+maps_to_test/maps3by3/solvable_3_175.txt
+Length of path: 19
+Time complexity: 297
+Space complexity: 173
+maps_to_test/maps3by3/solvable_3_176.txt
+Length of path: 25
+Time complexity: 452
+Space complexity: 279
+maps_to_test/maps3by3/solvable_3_177.txt
+Length of path: 17
+Time complexity: 64
+Space complexity: 37
+maps_to_test/maps3by3/solvable_3_178.txt
+Length of path: 25
+Time complexity: 1869
+Space complexity: 1154
+maps_to_test/maps3by3/solvable_3_179.txt
+Length of path: 21
+Time complexity: 476
+Space complexity: 284
+maps_to_test/maps3by3/solvable_3_17.txt
+Length of path: 21
+Time complexity: 388
+Space complexity: 233
+maps_to_test/maps3by3/solvable_3_180.txt
+Length of path: 23
+Time complexity: 1281
+Space complexity: 771
+maps_to_test/maps3by3/solvable_3_181.txt
+Length of path: 25
+Time complexity: 885
+Space complexity: 540
+maps_to_test/maps3by3/solvable_3_182.txt
+Length of path: 17
+Time complexity: 134
+Space complexity: 76
+maps_to_test/maps3by3/solvable_3_183.txt
+Length of path: 23
+Time complexity: 875
+Space complexity: 531
+maps_to_test/maps3by3/solvable_3_184.txt
+Length of path: 19
+Time complexity: 266
+Space complexity: 151
+maps_to_test/maps3by3/solvable_3_185.txt
+Length of path: 21
+Time complexity: 391
+Space complexity: 231
+maps_to_test/maps3by3/solvable_3_186.txt
+Length of path: 21
+Time complexity: 592
+Space complexity: 353
+maps_to_test/maps3by3/solvable_3_187.txt
+Length of path: 23
+Time complexity: 267
+Space complexity: 155
+maps_to_test/maps3by3/solvable_3_188.txt
+Length of path: 23
+Time complexity: 527
+Space complexity: 309
+maps_to_test/maps3by3/solvable_3_189.txt
+Length of path: 21
+Time complexity: 188
+Space complexity: 109
+maps_to_test/maps3by3/solvable_3_18.txt
+Length of path: 23
+Time complexity: 481
+Space complexity: 291
+maps_to_test/maps3by3/solvable_3_190.txt
+Length of path: 25
+Time complexity: 569
+Space complexity: 335
+maps_to_test/maps3by3/solvable_3_191.txt
+Length of path: 21
+Time complexity: 262
+Space complexity: 153
+maps_to_test/maps3by3/solvable_3_192.txt
+Length of path: 25
+Time complexity: 1568
+Space complexity: 955
+maps_to_test/maps3by3/solvable_3_193.txt
+Length of path: 23
+Time complexity: 564
+Space complexity: 338
+maps_to_test/maps3by3/solvable_3_194.txt
+Length of path: 17
+Time complexity: 34
+Space complexity: 18
+maps_to_test/maps3by3/solvable_3_195.txt
+Length of path: 27
+Time complexity: 1632
+Space complexity: 996
+maps_to_test/maps3by3/solvable_3_196.txt
+Length of path: 23
+Time complexity: 60
+Space complexity: 34
+maps_to_test/maps3by3/solvable_3_197.txt
+Length of path: 21
+Time complexity: 453
+Space complexity: 269
+maps_to_test/maps3by3/solvable_3_198.txt
+Length of path: 25
+Time complexity: 1477
+Space complexity: 892
+maps_to_test/maps3by3/solvable_3_199.txt
+Length of path: 23
+Time complexity: 833
+Space complexity: 497
+maps_to_test/maps3by3/solvable_3_19.txt
+Length of path: 17
+Time complexity: 61
+Space complexity: 35
+maps_to_test/maps3by3/solvable_3_1.txt
+Length of path: 17
+Time complexity: 47
+Space complexity: 26
+maps_to_test/maps3by3/solvable_3_200.txt
+Length of path: 19
+Time complexity: 286
+Space complexity: 169
+maps_to_test/maps3by3/solvable_3_20.txt
+Length of path: 23
+Time complexity: 124
+Space complexity: 75
+maps_to_test/maps3by3/solvable_3_21.txt
+Length of path: 21
+Time complexity: 538
+Space complexity: 325
+maps_to_test/maps3by3/solvable_3_22.txt
+Length of path: 25
+Time complexity: 856
+Space complexity: 522
+maps_to_test/maps3by3/solvable_3_23.txt
+Length of path: 23
+Time complexity: 688
+Space complexity: 413
+maps_to_test/maps3by3/solvable_3_24.txt
+Length of path: 25
+Time complexity: 604
+Space complexity: 366
+maps_to_test/maps3by3/solvable_3_25.txt
+Length of path: 27
+Time complexity: 2206
+Space complexity: 1341
+maps_to_test/maps3by3/solvable_3_26.txt
+Length of path: 25
+Time complexity: 743
+Space complexity: 447
+maps_to_test/maps3by3/solvable_3_27.txt
+Length of path: 23
+Time complexity: 708
+Space complexity: 423
+maps_to_test/maps3by3/solvable_3_28.txt
+Length of path: 29
+Time complexity: 3316
+Space complexity: 2054
+maps_to_test/maps3by3/solvable_3_29.txt
+Length of path: 21
+Time complexity: 520
+Space complexity: 311
+maps_to_test/maps3by3/solvable_3_2.txt
+Length of path: 23
+Time complexity: 557
+Space complexity: 335
+maps_to_test/maps3by3/solvable_3_30.txt
+Length of path: 23
+Time complexity: 577
+Space complexity: 349
+maps_to_test/maps3by3/solvable_3_31.txt
+Length of path: 21
+Time complexity: 394
+Space complexity: 234
+maps_to_test/maps3by3/solvable_3_32.txt
+Length of path: 23
+Time complexity: 164
+Space complexity: 98
+maps_to_test/maps3by3/solvable_3_33.txt
+Length of path: 19
+Time complexity: 204
+Space complexity: 118
+maps_to_test/maps3by3/solvable_3_34.txt
+Length of path: 23
+Time complexity: 1458
+Space complexity: 890
+maps_to_test/maps3by3/solvable_3_35.txt
+Length of path: 19
+Time complexity: 298
+Space complexity: 172
+maps_to_test/maps3by3/solvable_3_36.txt
+Length of path: 21
+Time complexity: 193
+Space complexity: 115
+maps_to_test/maps3by3/solvable_3_37.txt
+Length of path: 25
+Time complexity: 1478
+Space complexity: 901
+maps_to_test/maps3by3/solvable_3_38.txt
+Length of path: 23
+Time complexity: 892
+Space complexity: 538
+maps_to_test/maps3by3/solvable_3_39.txt
+Length of path: 19
+Time complexity: 80
+Space complexity: 46
+maps_to_test/maps3by3/solvable_3_3.txt
+Length of path: 23
+Time complexity: 695
+Space complexity: 424
+maps_to_test/maps3by3/solvable_3_40.txt
+Length of path: 13
+Time complexity: 23
+Space complexity: 12
+maps_to_test/maps3by3/solvable_3_41.txt
+Length of path: 21
+Time complexity: 327
+Space complexity: 196
+maps_to_test/maps3by3/solvable_3_42.txt
+Length of path: 21
+Time complexity: 225
+Space complexity: 130
+maps_to_test/maps3by3/solvable_3_43.txt
+Length of path: 23
+Time complexity: 696
+Space complexity: 418
+maps_to_test/maps3by3/solvable_3_44.txt
+Length of path: 25
+Time complexity: 404
+Space complexity: 240
+maps_to_test/maps3by3/solvable_3_45.txt
+Length of path: 17
+Time complexity: 48
+Space complexity: 27
+maps_to_test/maps3by3/solvable_3_46.txt
+Length of path: 23
+Time complexity: 321
+Space complexity: 190
+maps_to_test/maps3by3/solvable_3_47.txt
+Length of path: 21
+Time complexity: 196
+Space complexity: 117
+maps_to_test/maps3by3/solvable_3_48.txt
+Length of path: 27
+Time complexity: 1090
+Space complexity: 666
+maps_to_test/maps3by3/solvable_3_49.txt
+Length of path: 19
+Time complexity: 121
+Space complexity: 67
+maps_to_test/maps3by3/solvable_3_4.txt
+Length of path: 19
+Time complexity: 455
+Space complexity: 274
+maps_to_test/maps3by3/solvable_3_50.txt
+Length of path: 23
+Time complexity: 679
+Space complexity: 404
+maps_to_test/maps3by3/solvable_3_51.txt
+Length of path: 27
+Time complexity: 1294
+Space complexity: 785
+maps_to_test/maps3by3/solvable_3_52.txt
+Length of path: 23
+Time complexity: 886
+Space complexity: 533
+maps_to_test/maps3by3/solvable_3_53.txt
+Length of path: 27
+Time complexity: 1744
+Space complexity: 1058
+maps_to_test/maps3by3/solvable_3_54.txt
+Length of path: 25
+Time complexity: 1786
+Space complexity: 1087
+maps_to_test/maps3by3/solvable_3_55.txt
+Length of path: 21
+Time complexity: 224
+Space complexity: 131
+maps_to_test/maps3by3/solvable_3_56.txt
+Length of path: 23
+Time complexity: 2125
+Space complexity: 1300
+maps_to_test/maps3by3/solvable_3_57.txt
+Length of path: 23
+Time complexity: 658
+Space complexity: 395
+maps_to_test/maps3by3/solvable_3_58.txt
+Length of path: 25
+Time complexity: 499
+Space complexity: 299
+maps_to_test/maps3by3/solvable_3_59.txt
+Length of path: 15
+Time complexity: 33
+Space complexity: 17
+maps_to_test/maps3by3/solvable_3_5.txt
+Length of path: 21
+Time complexity: 635
+Space complexity: 381
+maps_to_test/maps3by3/solvable_3_60.txt
+Length of path: 21
+Time complexity: 159
+Space complexity: 93
+maps_to_test/maps3by3/solvable_3_61.txt
+Length of path: 23
+Time complexity: 1245
+Space complexity: 749
+maps_to_test/maps3by3/solvable_3_62.txt
+Length of path: 23
+Time complexity: 660
+Space complexity: 390
+maps_to_test/maps3by3/solvable_3_63.txt
+Length of path: 23
+Time complexity: 1497
+Space complexity: 913
+maps_to_test/maps3by3/solvable_3_64.txt
+Length of path: 21
+Time complexity: 125
+Space complexity: 72
+maps_to_test/maps3by3/solvable_3_65.txt
+Length of path: 23
+Time complexity: 167
+Space complexity: 97
+maps_to_test/maps3by3/solvable_3_66.txt
+Length of path: 17
+Time complexity: 226
+Space complexity: 133
+maps_to_test/maps3by3/solvable_3_67.txt
+Length of path: 23
+Time complexity: 174
+Space complexity: 101
+maps_to_test/maps3by3/solvable_3_68.txt
+Length of path: 25
+Time complexity: 1101
+Space complexity: 677
+maps_to_test/maps3by3/solvable_3_69.txt
+Length of path: 25
+Time complexity: 1216
+Space complexity: 734
+maps_to_test/maps3by3/solvable_3_6.txt
+Length of path: 25
+Time complexity: 1570
+Space complexity: 967
+maps_to_test/maps3by3/solvable_3_70.txt
+Length of path: 23
+Time complexity: 389
+Space complexity: 228
+maps_to_test/maps3by3/solvable_3_71.txt
+Length of path: 21
+Time complexity: 464
+Space complexity: 278
+maps_to_test/maps3by3/solvable_3_72.txt
+Length of path: 27
+Time complexity: 1365
+Space complexity: 833
+maps_to_test/maps3by3/solvable_3_73.txt
+Length of path: 21
+Time complexity: 203
+Space complexity: 120
+maps_to_test/maps3by3/solvable_3_74.txt
+Length of path: 27
+Time complexity: 1189
+Space complexity: 719
+maps_to_test/maps3by3/solvable_3_75.txt
+Length of path: 19
+Time complexity: 321
+Space complexity: 192
+maps_to_test/maps3by3/solvable_3_76.txt
+Length of path: 27
+Time complexity: 3746
+Space complexity: 2347
+maps_to_test/maps3by3/solvable_3_77.txt
+Length of path: 21
+Time complexity: 404
+Space complexity: 246
+maps_to_test/maps3by3/solvable_3_78.txt
+Length of path: 23
+Time complexity: 600
+Space complexity: 359
+maps_to_test/maps3by3/solvable_3_79.txt
+Length of path: 21
+Time complexity: 419
+Space complexity: 246
+maps_to_test/maps3by3/solvable_3_7.txt
+Length of path: 25
+Time complexity: 2900
+Space complexity: 1798
+maps_to_test/maps3by3/solvable_3_80.txt
+Length of path: 11
+Time complexity: 42
+Space complexity: 22
+maps_to_test/maps3by3/solvable_3_81.txt
+Length of path: 7
+Time complexity: 12
+Space complexity: 7
+maps_to_test/maps3by3/solvable_3_82.txt
+Length of path: 23
+Time complexity: 590
+Space complexity: 354
+maps_to_test/maps3by3/solvable_3_83.txt
+Length of path: 21
+Time complexity: 342
+Space complexity: 201
+maps_to_test/maps3by3/solvable_3_84.txt
+Length of path: 27
+Time complexity: 1798
+Space complexity: 1096
+maps_to_test/maps3by3/solvable_3_85.txt
+Length of path: 19
+Time complexity: 177
+Space complexity: 103
+maps_to_test/maps3by3/solvable_3_86.txt
+Length of path: 25
+Time complexity: 778
+Space complexity: 469
+maps_to_test/maps3by3/solvable_3_87.txt
+Length of path: 21
+Time complexity: 826
+Space complexity: 499
+maps_to_test/maps3by3/solvable_3_88.txt
+Length of path: 27
+Time complexity: 2050
+Space complexity: 1256
+maps_to_test/maps3by3/solvable_3_89.txt
+Length of path: 11
+Time complexity: 21
+Space complexity: 12
+maps_to_test/maps3by3/solvable_3_8.txt
+Length of path: 19
+Time complexity: 207
+Space complexity: 127
+maps_to_test/maps3by3/solvable_3_90.txt
+Length of path: 17
+Time complexity: 146
+Space complexity: 89
+maps_to_test/maps3by3/solvable_3_91.txt
+Length of path: 19
+Time complexity: 151
+Space complexity: 85
+maps_to_test/maps3by3/solvable_3_92.txt
+Length of path: 27
+Time complexity: 1915
+Space complexity: 1179
+maps_to_test/maps3by3/solvable_3_93.txt
+Length of path: 21
+Time complexity: 428
+Space complexity: 252
+maps_to_test/maps3by3/solvable_3_94.txt
+Length of path: 27
+Time complexity: 1870
+Space complexity: 1133
+maps_to_test/maps3by3/solvable_3_95.txt
+Length of path: 23
+Time complexity: 154
+Space complexity: 88
+maps_to_test/maps3by3/solvable_3_96.txt
+Length of path: 21
+Time complexity: 231
+Space complexity: 134
+maps_to_test/maps3by3/solvable_3_97.txt
+Length of path: 21
+Time complexity: 307
+Space complexity: 182
+maps_to_test/maps3by3/solvable_3_98.txt
+Length of path: 25
+Time complexity: 172
+Space complexity: 102
+maps_to_test/maps3by3/solvable_3_99.txt
+Length of path: 23
+Time complexity: 628
+Space complexity: 370
+maps_to_test/maps3by3/solvable_3_9.txt
+Length of path: 25
+Time complexity: 1567
+Space complexity: 956
