@@ -23,10 +23,11 @@ def count_inversions(flatten_map):
 
 def map_is_solvable(map_to_solve, final_map, map_size):
     number_inversion = count_inversions(flatten_in_order(map_to_solve, final_map, map_size))
-    if map_size % 2 != 0 and number_inversion % 2 == 0:
-        return True
-    y, x = np.where(map_to_solve == 0)
-    number_inversion += y
-    if number_inversion % 2 == y % 2:
+    y_zero_pos = 0
+    if map_size % 2 == 0:
+        y, x = np.where(map_to_solve == 2)
+        number_inversion += int(y)
+        y_zero_pos += int(y)
+    if number_inversion % 2 == y_zero_pos % 2:
         return True
     return False
